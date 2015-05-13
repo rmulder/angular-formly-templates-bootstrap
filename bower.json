@@ -1,12 +1,13 @@
 {
   "name": "angular-formly-templates-bootstrap",
-  "version": "4.0.9",
+  "version": "4.0.10",
   "authors": [
     "Astrism <astrisms@gmail.com>"
   ],
   "contributors": [
     "Astrism <astrisms@gmail.com>",
-    "Kent C. Dodds <kent@doddsfamily.us>"
+    "Kent C. Dodds <kent@doddsfamily.us>",
+    "Robert Mulder <rmulder@xmission.com>"
   ],
   "main": "dist/angular-formly-templates-bootstrap.js",
   "description": "Angular-Formly plugin which outputs bootstrap compatible form fields.",
